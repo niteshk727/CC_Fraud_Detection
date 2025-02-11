@@ -130,5 +130,76 @@ Credit card fraud is any dishonest act or behavior to obtain information without
 - A popular metric for assessing the effectiveness of binary classifiers is the F1-score. It gives a measure of the overall accuracy of the model by combining recall and precision into a single score.
 
 > Check Code for Implementation here
-> [View the GitHub File](https://github.com/username/repository/blob/main/path/to/file.py)
+> [View the GitHub File]([https://github.com/username/repository/blob/main/path/to/file.py](https://github.com/niteshk727/CC_Fraud_Detection/blob/main/Credit_Card_Fraud_Detection_Capstone_Nitesh_Kumar.ipynb))
+
+***
+# **<u>Summary</u>**
+## Strategic Selection of XGBoost Model for Credit Card Fraud Detection
+
+- In the pursuit of an effective solution to address credit card fraud detection, our primary objective is to achieve a high recall rate. A high recall is crucial to identifying a significant proportion of actual fraudulent transactions, offering a robust defense mechanism against potential high-value fraudulent activities. 
+
+
+- Given the severe consequences that banking institutions face in terms of monetary losses, credibility, and trust due to fraudulent transactions, prioritizing recall becomes a strategic choice to safeguard both the financial well-being of banks and the interests of their customers.
+
+## Model Evaluation and Selection Process
+
+In our analysis, we systematically experimented with various machine learning models, leveraging the power of the ADASYN (Adaptive Synthetic Sampling) technique to balance the highly imbalanced dataset. Among the models considered, the XGBoost model emerged as a standout performer. Here are the key findings:
+
+- **ROC Score:** The XGBoost model exhibited a commendable **ROC score of 99%**, showcasing its ability to effectively distinguish between positive and negative classes.
+
+- **Recall Rate:** The standout feature was the exceptionally high **Recall rate of 86%** in the balanced dataset. This metric is crucial in ensuring that a substantial portion of actual fraudulent transactions is correctly identified.
+
+## Reason for Choosing XGBoost
+
+- Therefore, based on a comprehensive evaluation of performance metrics, the XGBoost model, when coupled with the ADASYN technique on a balanced dataset, emerges as the preferred choice for our credit card fraud detection solution. This strategic decision is grounded in the model's ability to not only deliver an impressive ROC score but, more importantly, to prioritize recall—a critical factor in mitigating the impact of fraudulent transactions on both financial institutions and their clientele.
+
+
+- By adopting the **XGBoost model within the framework of ADASYN**, we are poised to enhance the proactive monitoring and fraud prevention measures implemented by banks, thereby fortifying their defenses against the evolving landscape of credit card fraud.
+
+---
+# Author Details
+
+<details>
+  <summary><strong>📌 Author Information</strong></summary>
+  
+  - **Name:** Nitesh  
+  - **Batch:** 5796  
+  
+</details>
+
+<details>
+  <summary><strong>🐍 Python Environment</strong></summary>
+  
+  - **Python Version:** 3.12.4  
+  
+</details>
+
+<details>
+  <summary><strong>📊 Machine Learning Libraries Used</strong></summary>
+  
+  - 🏋️‍♂️ **scikit-learn (sklearn)** – For various ML models and preprocessing techniques.  
+  - 🚀 **XGBoost** – For optimized gradient boosting models.  
+  - 🎨 **Seaborn** – For advanced visualization and statistical plotting.  
+  - 📈 **Matplotlib** – For basic plotting and data visualization.  
+  - 🔢 **NumPy** – For numerical computations and array handling.  
+  - 🗂️ **Pandas** – For data manipulation and analysis.  
+  
+</details>
+
+---
+
+# 🙏 Thank You!  
+
+Thank you for your time and consideration. I truly appreciate the opportunity to contribute and learn.  
+
+If you have any questions or feedback, feel free to reach out.  
+
+<details>
+  <summary>📧 Contact via email</summary>
+  <p><a href="mailto:niteshkumar0418@gmail.com">niteshkumar0418@gmail.com</a></p>
+</details>  
+
+**Best Regards,**  
+**Nitesh**  
+
 
