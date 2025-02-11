@@ -129,8 +129,7 @@ Credit card fraud is any dishonest act or behavior to obtain information without
 
 - A popular metric for assessing the effectiveness of binary classifiers is the F1-score. It gives a measure of the overall accuracy of the model by combining recall and precision into a single score.
 
-> Check Code for Implementation here
-> [View the GitHub File]([https://github.com/username/repository/blob/main/path/to/file.py](https://github.com/niteshk727/CC_Fraud_Detection/blob/main/Credit_Card_Fraud_Detection_Capstone_Nitesh_Kumar.ipynb))
+> [Check Code for Implementation here](https://github.com/niteshk727/CC_Fraud_Detection/blob/main/Credit_Card_Fraud_Detection_Capstone_Nitesh_Kumar.ipynb))
 
 ***
 # **<u>Summary</u>**
